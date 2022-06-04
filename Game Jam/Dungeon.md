@@ -3,7 +3,7 @@
 
 
 ## Intro
-The title is a warning. This dungeon can potentially be very lethal, so telegraph everything well in advance. It rewards careful planning & clever ideas. Fighting every encounter may not be possible. It can appear anywhere underground with stone hallways.
+The title is a warning. This dungeon can potentially be very lethal, so telegraph everything well in advance. It rewards careful planning & clever ideas. Fighting every encounter may not be possible. It can appear anywhere with underground stone hallways.
 
 
 ## Area 0
