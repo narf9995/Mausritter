@@ -1,6 +1,8 @@
 # Millions of Mice
+The Mausritter rulebook explicitly states the intent for players to act brave, kill off mice often, & reroll new ones. The character creation process is quick already, but it could be made quicker by automating it using computers. But with "millions of mice" comes storage issues, so a new shorthand called the Quick Mouse Identifier (QMI) is proposed in this supplement.
+
 ## Quick Mouse Identifier (QMI)
-A QMI is a 5 digit pseudo-hexadecimal string that summarizes an entire *Mausritter* character.
+A QMI is a 5 digit pseudo-hexadecimal string that summarizes an entire *Mausritter* character. 
 
 To simplify, hexadecimal is used by computers to make 2 digit numbers fit in the space of 1 digit.
 
@@ -56,13 +58,11 @@ Below are 5 mice in standard format & the same 5 mice, but in QMI format.
 - B9931, 7B524, A9B13, 99765, 38B56
 
 ### The answer
-The answer is volume, space, & readability. This matters less when you have 5 mice, but what about 100? Or 1000?
+The issue is magnified by the number of characters resulting in issues with space & readability. This matters less when you have 5 mice, but what about 100 or 1,000? Or even 1,000,000?
 
-That might sound insane for a fantasy game, but some sci-fi games that involve intergalactic travel such as Traveller regularly generate entire galaxies.
+That might sound insane for a fantasy game, but some sci-fi games that involve intergalactic travel such as Traveler regularly generate entire galaxies. The hexadecimal idea was actually taken from Cepheus Engine, a Traveler clone, which does it for entire planets, systems, & galaxies too.
 
-Just 10 mice on 10 planets is already 100 mice. Multiply that by the number of galaxies & things start to get crazy. Or maybe your GM just want to run Tomb of Horrors, but with mice...
-
-Either way, this is a solution to problem you probably didn't have, but I hope it can help regardless.
+Just 10 mice on 10 planets is already 100 mice. Multiply that by the number of galaxies & things start to get crazy... or maybe your GM just wants to run Tomb of Horrors, but with mice. Either way, this is a solution to problem you probably didn't have, but I hope it's still useful in your game.
 
 ## 100 Mice
 To make reading this worth your time, here's 100 fresh mice in QMI format made with  Troll as outlined above:
@@ -87,3 +87,7 @@ To make reading this worth your time, here's 100 fresh mice in QMI format made w
 - 9B961, 64A51, 95724, 99633, 45866
 - 89C56, 49C12, 8CC64, 69B61, 87751
 - 75A65, C6612, 7AA45, CA726, 86946
+
+> These hould be more than enough fodder for you home game, but if your table is extremely lethal, then rest assured, as I'll soon try to make an additional supplement that legitimately contains 1,000,000 mice in QMI format.
+> 
+> Don't spend them all in one place. ;)
