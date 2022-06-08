@@ -60,9 +60,9 @@ Below are 5 mice in standard format & the same 5 mice, but in QMI format.
 ### The answer
 The issue is magnified by the number of characters resulting in issues with space & readability. This matters less when you have 5 mice, but what about 100 or 1,000? Or even 1,000,000?
 
-That might sound insane for a fantasy game, but some sci-fi games that involve intergalactic travel such as Traveler regularly generate entire galaxies. The hexadecimal idea was actually taken from Cepheus Engine, a Traveler clone, which does it for entire planets, systems, & galaxies too.
+That might sound insane for a fantasy game, but some sci-fi games that involve intergalactic travel such as *Traveler* regularly generate entire galaxies. The hexadecimal idea was actually taken from *Cepheus Engine*, a *Traveler* clone, which does it for entire planets, systems, & galaxies too.
 
-Just 10 mice on 10 planets is already 100 mice. Multiply that by the number of galaxies & things start to get crazy... or maybe your GM just wants to run Tomb of Horrors, but with mice. Either way, this is a solution to problem you probably didn't have, but I hope it's still useful in your game.
+Just 10 mice on 10 planets is already 100 mice. Multiply that by the number of galaxies & things start to get crazy... or maybe your GM just wants to run *Tomb of Horrors*, but with mice. Either way, this is a solution to problem you probably didn't have, but I hope it's still useful in your game.
 
 ## 100 Mice
 To make reading this worth your time, here's 100 fresh mice in QMI format made with  Troll as outlined above:
