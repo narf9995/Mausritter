@@ -102,6 +102,6 @@ To make reading this worth your time, here's 100 fresh mice in QMI format made w
 - 89C56, 49C12, 8CC64, 69B61, 87751
 - 75A65, C6612, 7AA45, CA726, 86946
 
-> These should be more than enough fodder for your home game, but if your table is extremely lethal, then rest assured, as I'll soon attempt to make an additional supplement that legitimately contains 1,000,000 mice in QMI format.
+> These should be more than enough fodder for your home game, but if your table is extremely lethal, then rest assured, as I'll soon attempt to make an additional supplement that legitimately contains 1,000,000 mice.
 > 
 > Don't spend them all in one place. ;)
