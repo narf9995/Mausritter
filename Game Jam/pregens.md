@@ -5,7 +5,7 @@ But with "millions of mice" comes storage issues, so a new shorthand called the 
 
 ## Quick Mouse Identifier (QMI)
 A QMI is a 5 digit pseudo-hexadecimal string that summarizes an entire *Mausritter* character.
-It isn't meant to replace character sheets, instead it is a way to quickly reference character stats without needing a full statblock.
+It isn't meant to replace character sheets, instead it is a way to quickly reference a character's stats without needing their full statblock.
 
 To simplify, hexadecimal is used by computers to make 2 digit numbers fit in the space of 1 digit.
 
