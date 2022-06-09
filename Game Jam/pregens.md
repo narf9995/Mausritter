@@ -49,7 +49,7 @@ Characters can easily be created en masse using the dice program Troll, which ca
 
 
 ## But Why?
-Here's an example as to why one would go through effort of using hexadecimal. 
+Here's an example as to why one would go through all this effort.
 
 Below are 5 mice in standard format & the same 5 mice, but in QMI format.
 
