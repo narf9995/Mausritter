@@ -15,8 +15,10 @@ The string is in the order: STR, DEX, WIL, HP, & Pips.
 > 
 > STR: 11, DEX: 9, WIL: 12, HP: 3, & Pips: 1.
 
-This obviously doesn't account for other things like items, spells, etc. so here's an example of how one might implement QMI as part of a full character sheet:
+This obviously doesn't account for other things like backgrounds, items, spells, etc. so here's an example of how one might implement QMI as part of a full character sheet:
 > [Name] ([QMI])
+>
+> [Background]
 > 
 > Items: [Main], [Off], [Worn 1], [Worn 2], [Pack Items 1-6]
 
