@@ -27,7 +27,7 @@ Decimal | Hexadecimal
 15 | F
 16 | G
 ... | ...
-36 | Z
+35 | Z
 
 
 ## Mass Character Gen
