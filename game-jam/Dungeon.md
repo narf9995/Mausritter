@@ -146,7 +146,7 @@ Critical Fail | 1d4+2 x 1d4+2
 56 | A compass that always points to the nearest threat.
 61 | 2 Breathing Straws in the mud.
 62 | 
-63 | A 3" rock that quadruples in size for 4 turns when the words "Big Rock" is spoke. This phrase is carved into the rock.
+63 | A 3" rock that quadruples in size for 4 turns when the words "Big Rock" are spoken. This phrase is carved into the rock.
 64 | Bat Cultist Dagger
 65 | A compass that always points to where you want to go.
 66 | 100,000 pips spread along a 96” stretch of tunnel. 4000 is contained in sacks. The rest is loose.
@@ -170,16 +170,28 @@ This room full of 16 mice... not corpses, but not quite alive either.
   - 2 click & screech loudly, commanding the others.
 
 ### Area 5
-A 192"³ ornately-carved stone room. The high ceiling, ornate pillars, & massive arches even make larger creatures feel small. This is one of the larger treasure rooms built by the mad mouse king. It was initially a cathedral, hence the grand scale of the construction. Though as his greed & paranoia grew, the mad king began to think the gods themselves were after him, so he ceased all religious services & converted it into yet another treasure room where he could hoard his offensive amounts of wealth.
+A 192"³ ornately-carved stone room. The high ceiling, ornate pillars, & massive arches even make larger creatures feel small.
+This is one of the larger treasure rooms built by the mad mouse king.
+It was initially a cathedral, hence the grand scale of the construction.
+Though as his greed & paranoia grew, the mad king began to think the gods themselves were after him, so he ceased all religious services & converted it into yet another treasure room where he could hoard his offensive amounts of wealth.
 
-There are more riches here than one could reasonably list. There are ~2,000,000 pips worth of goods, art, weapons, precious metals, human trinkets, etc. Basically at least one of anything your players could want is here. The issue is that most of the highly valuable items are extremely large & heavy. Only ~500,000 pips worth of goods can fit through the underwater tunnels which are the only entrance to this room that are currently accessible. 
+There are more riches here than one could reasonably list. There are ~2,000,000 pips worth of goods, art, weapons, precious metals, human trinkets, etc.
+Basically at least one of anything your players could want is here.
+The issue is that most of the highly valuable items are extremely large & heavy.
+Only ~500,000 pips worth of goods can fit through the underwater tunnels which are the only entrance to this room that are currently accessible. 
 
-The rest is too heavy/large. The caved-in tunnels in Area #1 or a similarly sized passage would need to be fully cleared in order for it to be extracted. Even after that it would still require a very large team & specialist equipment. Also, no-one knows what's on the other side of those tunnels yet...
+The rest is too heavy/large.
+The caved-in tunnels in Area #1 or a similarly sized passage would need to be fully cleared in order for it to be extracted.
+Even after that it would still require a very large team & specialist equipment.
+Also, no-one knows what's on the other side of those tunnels yet...
 
 ### Encounter Table
-To reinforce the interconnected, maze-like nature of this dungeon there is just one large 1d20 Encounter Table with some optional supplemental tables. It is weighted with "positive" results towards 1 & "negative" results towards 20. None are good, some are just worse.
+To reinforce the interconnected, maze-like nature of this dungeon there is just one large 1d20 Encounter Table with some optional supplemental tables.
+It is weighted with "positive" results towards 1 & "negative" results towards 20.
+None are good, some are just worse.
 
-If a result comes up more than once, instead of adding duplicates, you may opt to escalate or renew the previous encounter. Perhaps the creature they convinced to leave them alone decides it is still hungry & doubles back...
+If a result comes up more than once, instead of adding duplicates, you may opt to escalate or renew the previous encounter.
+Example: Perhaps the creature they first convinced to leave them alone decides it is still hungry & doubles back...
 
 > If you want to make the tunnels more difficult, make a 1-in-6 Luck check at every intersection: success results in the players making a DEX save where failure equals an additional roll on the Encounter Table.
 
