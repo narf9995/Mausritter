@@ -48,7 +48,8 @@ The **Centipede** has adapted to the dark. It **avoids standard light sources** 
 
 
 ### Area 2
-There are 4d3+2 interconnected underwater tunnels the players can fit through (with countless number of cracks & crevices branching off that are too small for a *mouse* to fit through). There are also tunnels larger than mouse-size, but their currents are too great to traverse controllably & will contain larger, deadlier creatures. They are best avoided by mice.
+There are 4d3+2 interconnected underwater tunnels the players can fit through (with countless number of cracks & crevices branching off that are too small for a *mouse* to fit through).
+There are also tunnels larger than mouse-size, but their currents are too powerful & will contain larger, deadlier creatures.
 
 - **Some tunnels are deadends**, while **others go off for miles** into distant areas of the greater megadungeon complex. The scale of this tunnel system is **nigh incomprehensible to mice**. 
 - These tunnels are just **barely large enough for single-file traffic** & are considered a "squeeze" in caving terms.
@@ -58,9 +59,15 @@ There are 4d3+2 interconnected underwater tunnels the players can fit through (w
 
 
 #### Construction
-To map them for reference, you can take a sheet of rectangular paper, position it sideways, & then roll 4d3+2 onto the paper to determine the exact number of tunnels & the location of the major exits (you may also choose their location if you prefer). If there are 10+ tunnels, then there is an additional major exit that leads directly to Area #5 (Fully bypassing the threats in both Area #3 & #4). 
+To map them for reference, you can take a sheet of rectangular paper, position it sideways, & then roll 4d3+2 onto the paper to determine the exact number of tunnels & the location of the major exits (you may also choose their location if you prefer).
+If there are 10+ tunnels, then there is an additional major exit that leads directly to Area #5 (Fully bypassing the threats in both Area #3 & #4). 
 
-Mark where the dice landed with small squares. These are the exits. Draw a small circle on the left side of the sheet. This is the pool. Connect each of those squares with the circle from the left side by drawing a line between them without letting any of those lines cross. Keep in mind that they shouldn't be straight, make the lines wiggle & meander a little. Just like a winding river.
+Mark where the dice landed with small squares.
+These are the exits.
+Draw a small circle on the left side of the sheet.
+This is the pool.
+Connect each of those squares with the circle from the left side by drawing a line between them without letting any of those lines cross.
+Keep in mind that they shouldn't be straight, make the lines wiggle & meander a little. Just like a winding river.
  
 These are the 4 major exits to this sprawling tunnel system (each costs 2 successful Exploration rolls to find):
 - #1 is the passage to Area #3.
@@ -75,13 +82,22 @@ Assign those exit numbers to the squares in whatever order makes sense or seems 
 
 The remainder of the tunnels loop & wind around, intersecting with those 4 important tunnels, eachother, & even themselves to form a sprawling, maze-like tunnel network.
 
-For each remaining tunnel roll 1d6 & 1d2. The 1d6 is the number of times that tunnel crosses another tunnel (including itself). While the 1d2 roll determines if the tunnel terminates in a deadend or an exit; 1 is a deadend, 2 is an exit. The exits leave the edge of the page on the 4 cardinal directions, starting with North & going clockwise. Once each cardinal direction has an exit, place the rest wherever makes sense or seems fun. All of these exits continue off to other dungeons in the megadungeon complex.
+For each remaining tunnel roll 1d6 & 1d2.
+The 1d6 is the number of times that tunnel crosses another tunnel (including itself).
+While the 1d2 roll determines if the tunnel terminates in a deadend or an exit; 1 is a deadend, 2 is an exit.
+The exits leave the edge of the page on the 4 cardinal directions, starting with North & going clockwise.
+Once each cardinal direction has an exit, place the rest wherever makes sense or seems fun.
+All of these exits continue off to other dungeons in the megadungeon complex.
 
-Finally draw 1d4 large tunnels (make a thick line) that cross the entire map from one edge of the paper to the other. Draw them slightly straighter than the previous tunnels. These are high current & extremely deadly tunnels that are used by larger creatures. They are not navigable by mice without a "vessel".
+Finally draw 1d4 large tunnels (make a thick line) that cross the entire map from one edge of the paper to the other.
+Draw them slightly straighter than the previous tunnels.
+These are high current & extremely deadly tunnels that are used by larger creatures.
+They are not navigable by mice without a "vessel".
 
 
 #### Exploration
-Unless the group wishes to explore the tunnels by making highly specific "real-time" choices about which route to take, it is recommended that you use the Exploration Table to simulate the difficulties of exploration without all of the fiddly details. If they want to explore manually, then each intersection they cross counts as 1 dungeon turn. 
+Unless the group wishes to explore the tunnels by making highly specific "real-time" choices about which route to take, it is recommended that you use the Exploration Table to simulate the difficulties of exploration without all of the fiddly details.
+If they want to explore manually, then each intersection they cross counts as 1 dungeon turn. 
 
 1. Ask the players what they are looking for. This is their target location. Unless it's particularly easy/hard to find, this typically costs 2 successful Exploration Rolls. 
 2. Have players **elect one PC** as the guide. They must be first in marching order.
