@@ -112,7 +112,7 @@ If they want to explore manually, then each intersection they cross counts as 1 
 
 ##### Table 1-1: Exploration Table
 Stat | Main Effect | Secondary Effect
-:--- | :--- 
+:---:|:---:|:---:
 STR | All further fails cumulative. | 1 STR damage to group.
 DEX | Group separated from leader by a incline (even) or decline (odd). | Encounter, group ambushed.
 WIL | Group doesn’t know how to get back. | Lowest WIL PC got separated by a left turn (even) or right turn (odd). 
