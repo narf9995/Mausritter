@@ -1,13 +1,12 @@
-# Game Jam Submissions
-## One Page Dungeon
-### Area 0
+# Best Left Buried
+## Area 0
 Located in a stone hallway of an unrelated dungeon the entrance to Area #1 is a unassuming crack in the dungeon floor that reveals a small natural cave carved out by water.
 - The crack **takes up half the hall**, but is **easily passable** without risk.
 - **Traversing** the crack **requires special equipment** or a clever solution **on ascension**.
 - A **crude warning symbol** is constructed outside with **”Best Left Buried, RIP My Love." written in chalk**.
 
 
-### Area 1
+## Area 1
 A 24"³ cave filled with a pool of water that has a **narrow ledge along the outskirts**.
 
 Entrances/Exits:
@@ -15,24 +14,24 @@ Entrances/Exits:
 - two 12" wide **caved-in tunnels** on the east & west walls that appear intentional.
 - 4d3 interconnected **underwater tunnels** accessible via the pool that wind off in many directions. 
 
-#### Inhabitant
+### Inhabitant
 A **Swimming Centipede** has made this cave it's hunting den.
 
 While in Area #2:
 - It **retains full movement**
 - It's **attacks are not impaired** by the terrain.
 
-##### Tactics:
+#### Tactics:
 Prefers solo prey & will only attack offensively if it has the advantage.
 - If the players are **moving recklessly** down the hallway it **attempts to silently snatch the last one** in marching order, attempting to drown them under the water in it's cave. **Otherwise, it remains hidden** until it has an opportunity.
 - **If injured, it retreats** into the underwater tunnels of Area #2 in attempt to fight it's attackers one-on-one in it's home terrain.
 - **If prey is subdued**, it **takes them to it's nest** in Area #2 for later consumption.
 
-##### Weakness:
+#### Weakness:
 The **Centipede** has adapted to the dark. It **avoids standard light sources** to telegraph this weakness.
 - A non-standard light source will blind it (ie. a Light spell), making all it's attacks **impaired** & all attacks against it **enhanced** until it can escape the light for 1 round.
 
-##### Treasure:
+#### Treasure:
 - In the pool there is an **underwater lantern** & a mouse corpse reaching out towards **2 Breathing Straws** (magical tubes that contain air).
 - Additionally, in Area #2, a small semi-submerged nest of rubble, corpses, & refuse the centipede uses as it's home contains:
   -  3 recent corpses: 2 mice & 1 frog.
@@ -47,7 +46,7 @@ The **Centipede** has adapted to the dark. It **avoids standard light sources** 
     - **Refusing to help** results in them trying to escape on their own: there is a **4-in-6 chance they die** & a **2-in-6 chance the corpse is discovered** in the tunnels upon egress.
 
 
-### Area 2
+## Area 2
 There are 4d3+2 interconnected underwater tunnels the players can fit through (with countless number of cracks & crevices branching off that are too small for a *mouse* to fit through).
 There are also tunnels larger than mouse-size, but their currents are too powerful & will contain larger, deadlier creatures.
 
@@ -58,7 +57,7 @@ There are also tunnels larger than mouse-size, but their currents are too powerf
 - The water is very murky, so **light range is diminished by half**. Significantly disturbing the muddy silt reduces light range to one's immediate surroundings (ie. paw distance).
 
 
-#### Construction
+### Construction
 To map them for reference, you can take a sheet of rectangular paper, position it sideways, & then roll 4d3+2 onto the paper to determine the exact number of tunnels & the location of the major exits (you may also choose their location if you prefer).
 If there are 10+ tunnels, then there is an additional major exit that leads directly to Area #5 (Fully bypassing the threats in both Area #3 & #4). 
 
@@ -95,7 +94,7 @@ These are high current & extremely deadly tunnels that are used by larger creatu
 They are not navigable by mice without a "vessel".
 
 
-#### Exploration
+### Exploration
 Unless the group wishes to explore the tunnels by making highly specific "real-time" choices about which route to take, it is recommended that you use the Exploration Table to simulate the difficulties of exploration without all of the fiddly details.
 If they want to explore manually, then each intersection they cross counts as 1 dungeon turn. 
 
@@ -110,7 +109,7 @@ If they want to explore manually, then each intersection they cross counts as 1 
 8. Once this is resolved the group is finds the thing they were looking for if they have accumulated enough successes. If they still need more successes to find it, then they find something else interesting. Roll on Table 1-3 to determine what.
 
 
-##### Table 1-1: Exploration Table
+#### Table 1-1: Exploration Table
 Stat | Main Effect | Secondary Effect
 :---:|:---:|:---:
 STR | All further fails cumulative. | 1 STR damage to group.
@@ -118,7 +117,7 @@ DEX | Group separated from leader by a incline (even) or decline (odd). | Encoun
 WIL | Group doesn’t know how to get back. | Lowest WIL PC got separated by a left turn (even) or right turn (odd). 
 
 
-##### Table 1-2: Time Taken To Explore
+#### Table 1-2: Time Taken To Explore
 Number Of Failures | Turns Taken
 :---:|:---:
 One | 1d2+1
@@ -126,7 +125,7 @@ Two | 1d2+1 x 2
 Three | 1d4+2 x 2
 Critical Fail | 1d4+2 x 1d4+2
 
-##### Table 1-3: Interesting Finds 
+#### Table 1-3: Interesting Finds 
 
 1d66 | Result
 :---: | :---:
@@ -167,7 +166,7 @@ Critical Fail | 1d4+2 x 1d4+2
 65 | A compass that always points to where you want to go.
 66 | 100,000 pips spread along a 96” stretch of tunnel. 4000 is contained in sacks. The rest is loose.
 
-### Area 3
+## Area 3
 The underwater tunnels open up into a small stone hallway with large stone door that is both locked & barricaded. Beyond the door is a 48”³ carved stone room that is filled with fungal growths & 7 very decayed corpses. On the opposite side of the room there is another locked & barricaded stone door leading to Area #4 that is slightly larger than the first.
 
 Fungi has fully permeated every corpse:
@@ -175,7 +174,7 @@ Fungi has fully permeated every corpse:
 - 4 immobile & so overgrown with bulbous fungi nodes that it's almost impossible to tell what kind of creatures they once were. Disturbing them results in an explosion of fungal spores that contaminates the entire room, triggering a STR save for everyone present. Breathing this air also triggers a STR save. Failure results in contracting Mucormycosis.
 - When sound/light enters the room the last one begins to stumble around on two feet, blindly clawing at any noises it hears. 
 
-### Area 4
+## Area 4
 This is a 96”³ ornately-carved stone room with an absolutely massive stone door leading to Area #5 on the opposite side of the room.
 
 This room full of 16 mice... not corpses, but not quite alive either.
@@ -185,7 +184,7 @@ This room full of 16 mice... not corpses, but not quite alive either.
   - 4 overgrown with fungi nodes, but remain mobile.
   - 2 click & screech loudly, commanding the others.
 
-### Area 5
+## Area 5
 A 192"³ ornately-carved stone room. The high ceiling, ornate pillars, & massive arches even make larger creatures feel small.
 This is one of the larger treasure rooms built by the mad mouse king.
 It was initially a cathedral, hence the grand scale of the construction.
@@ -201,7 +200,7 @@ The caved-in tunnels in Area #1 or a similarly sized passage would need to be fu
 Even after that it would still require a very large team & specialist equipment.
 Also, no-one knows what's on the other side of those tunnels yet...
 
-### Encounter Table
+## Encounter Table
 To reinforce the interconnected, maze-like nature of this dungeon there is just one large 1d20 Encounter Table with some optional supplemental tables.
 It is weighted with "positive" results towards 1 & "negative" results towards 20.
 None are good, some are just worse.
