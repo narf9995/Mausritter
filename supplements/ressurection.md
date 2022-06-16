@@ -135,7 +135,7 @@ The establishment of an anchor is symbolized by a random trait that the resurrec
 
 ## Other Resurrection Ideas
 
-- You could also turn a player’s death into part of the story, such as requiring the players to retrieve the soul of the mouse, from another plane of existence.
+- Especially after the other options are expended, you could turn a player’s death into part of the story, such as requiring the players to retrieve the soul of the mouse, from another plane of existence.
 
 - Limit the total number of resurrections available to your players.
 
