@@ -121,27 +121,16 @@ The establishment of an anchor is symbolized by a random trait that the resurrec
 ### Table 1: Anchored Soul Trait
 
 1d10 | Trait
-
 :---:|:---:
-
 1 | You now have the same fears as the caster.
-
 2 | A part of your body how has the same skin color and texture as the caster.
-
 3 | A patch of your hair is now the same color as the caster.
-
 4 | One of your eyes turns into the same eye color as the caster.
-
 5 | You now share a psionic link with the caster and can communicate telepathically with one another.
-
 6 | You now share an empathic link with the caster and emulate whatever strong emotion they feel.
-
 7 | You gain knowledge of a precious memory or secret of the caster knows.
-
 8 | You gain one random tool proficiency that the caster has.
-
 9 | You gain one random skill proficiency that the caster has.
-
 10 | Nothing happens.
 
 ## Other Resurrection Ideas
