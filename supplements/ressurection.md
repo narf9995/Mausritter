@@ -108,7 +108,7 @@ Only the strongest of magical effects can bypass this resurrection challenge, ty
 
 Each time a mouse is successfully resurrected from a ritual or spell, their soul is now anchored by the caster of the ritual or spell.
 
-If the caster of the ritual dies, the vitality of all the mice resurrected by the caster starts to corrode.
+If the caster of the ritual dies, the vitality of all the mice resurrected by the caster starts to diminish.
 
 For each day after the caster has died, the mouse’s STR score is decreased by the number of resurrections the mouse has had.
 
