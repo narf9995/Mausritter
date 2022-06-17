@@ -84,9 +84,9 @@ Miracle is not a traditional spell that can be recharged. It is "cast" by making
 
   - A holy symbol or magical object.
 
-  - 1+ pleas to a god or magical entity.
+  - 1+ plea to a god or magical entity.
 
-  - 1+ god or magical entity that listens
+  - 1+ god or magical entity that listens.
 
 - **Casting Time:** 1 Round
 
