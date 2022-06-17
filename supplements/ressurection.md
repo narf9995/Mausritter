@@ -96,7 +96,7 @@ Miracle is not a traditional spell that can be recharged. It is "cast" by making
 
 If a mouse is dead, and a resurrection is attempted by a spell or spell effect other than True Ressurection or Miracle, a resurrection challenge is initiated. Up to 3 other mice can offer to contribute to the casting. The GM asks them each to make a save based on their form of contribution, with each success allowing the caster an additional reroll on their WIL save.
 
-If the subject has been ressurected previously, the caster makes WIL save with -1 to their WIL while casting. This penalty increases by -1 for each additional previous resurrection the mouse has undergone (signifying the slow erosion of the soul’s connection to this world).
+If the subject has been ressurected previously, the caster makes the WIL save with -1 to their WIL while casting. This penalty increases by -1 for each additional previous resurrection the mouse has undergone (signifying the slow erosion of the soul’s connection to this world).
 
 - Upon a successful resurrection check, the player’s soul (should it be willing) will be returned to the body.
 
