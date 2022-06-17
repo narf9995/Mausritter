@@ -1,6 +1,6 @@
 # Millions of Mice
 
-The Mausritter rulebook explicitly states the intent for players to act brave, kill off mice often, & reroll new ones.
+The *Mausritter* rulebook explicitly states the intent for players to act brave, kill off mice often, & reroll new ones.
 
 The character creation process is very quick already, but it could be made quicker by automation via computers.
 
