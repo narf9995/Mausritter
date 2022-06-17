@@ -8,7 +8,7 @@ On a successful resurrection, the anchored soul takes on a trait of the caster w
 
 Each of the ressurection spells are recharged by completing a ritual that consumes it's components in the process. The cost depends on the spell.
 
-The caster must make a WIL save, failure results in the spell failing.
+To cast a ressurection spell the caster must make a WIL save, failure results in the spell failing.
 
 Besides the WIL save, they otherwise function identically to the spells present in the core *Mausritter* rulebook. 
 
