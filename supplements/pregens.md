@@ -37,25 +37,15 @@ This obviously doesn't account for other things like backgrounds, items, spells,
 ### Pseudo-Hexadecimal
 
 Decimal | Hexadecimal
-
 :---: | :---:
-
 10 | A
-
 11 | B
-
 12 | C
-
 13 | D
-
 14 | E
-
 15 | F
-
 16 | G
-
 ... | ...
-
 35 | Z
 
 ## Mass Character Gen
